@@ -4,6 +4,7 @@ var messages = [
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	['Sorry I was on mute'],
 	['Could you go back one slide please?'],
 	['(swears under breath)'],
@@ -38,6 +39,9 @@ var messages = [
 =======
 >>>>>>> parent of 4d7c679... Correct typos
 	["Safe travel to all Data Migrants and may all your Data Models be Harmonised", "Alvin Navarro, Data Lead"],
+=======
+	["Peace to all Data Migrants and may all your Data Models be Harmonised", "Alvin Navarro, Data Lead"],
+>>>>>>> parent of 38d81a8... Update messages
 	["Christmas is a necessity. There has to be at least one day of the year to remind us that we're here for something else besides ourselves.", "Lukas Litzkow, PMO"],
 	["Hope Santa Claus Procures all the gifts on your list and you Pay a good price", "Lynn Bryce, P2P Lead"],
 	["Hope you are Recorded on the Nice List, and not Reported on the Naughty List", "Ian Struggles, R2R Lead"],
