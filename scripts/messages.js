@@ -1,5 +1,6 @@
 var messages = [
 <<<<<<< HEAD
+<<<<<<< HEAD
 	['Sorry I was on mute'],
 	['Could you go back one slide please?'],
 	['(swears under breath)'],
@@ -25,6 +26,8 @@ var messages = [
 	['Was that a question or a statement?'],
 	['We\'re out of time'],
 =======
+=======
+>>>>>>> parent of 4d7c679... Correct typos
 	["Safe travel to all Data Migrants and may all your Data Models be Harmonised", "Alvin Navarro, Data Lead"],
 	["Christmas is a necessity. There has to be at least one day of the year to remind us that we're here for something else besides ourselves.", "Lukas Litzkow, PMO"],
 	["Hope Santa Claus Procures all the gifts on your list and you Pay a good price", "Lynn Bryce, P2P Lead"],
