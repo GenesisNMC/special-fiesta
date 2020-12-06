@@ -3,6 +3,7 @@ var messages = [
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	['Sorry I was on mute'],
 	['Could you go back one slide please?'],
 	['(swears under breath)'],
@@ -28,6 +29,8 @@ var messages = [
 	['Was that a question or a statement?'],
 	['We\'re out of time'],
 =======
+=======
+>>>>>>> parent of 4d7c679... Correct typos
 =======
 >>>>>>> parent of 4d7c679... Correct typos
 =======
