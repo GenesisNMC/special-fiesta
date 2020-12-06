@@ -1,6 +1,7 @@
 var messages = [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	['Sorry I was on mute'],
 	['Could you go back one slide please?'],
 	['(swears under breath)'],
@@ -26,6 +27,8 @@ var messages = [
 	['Was that a question or a statement?'],
 	['We\'re out of time'],
 =======
+=======
+>>>>>>> parent of 4d7c679... Correct typos
 =======
 >>>>>>> parent of 4d7c679... Correct typos
 	["Safe travel to all Data Migrants and may all your Data Models be Harmonised", "Alvin Navarro, Data Lead"],
