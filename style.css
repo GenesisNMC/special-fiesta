@@ -22,7 +22,7 @@ html {
 body {
   margin: 0;
   background-color: #fff;
-  font-family: "Caveat", sans-serif;
+  font-family: "Roboto", sans-serif;
   width: 100%;
   text-align: center;
 }
@@ -53,6 +53,7 @@ header a {
 }
 header a:hover {
   background-color: #4D7DB5;
+  text-align: center;
 }
 .demo-content {
   max-width: 80%;
