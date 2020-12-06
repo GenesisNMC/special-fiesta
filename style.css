@@ -22,12 +22,13 @@ html {
 body {
   margin: 0;
   background-color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Gaeju", sans-serif;
   width: 100%;
   text-align: center;
 }
 header {
   background-color: #4D7DB5;
+  text-align: center;
 }
 header h1,
 header a {
