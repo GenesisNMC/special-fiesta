@@ -21,14 +21,13 @@ html {
 }
 body {
   margin: 0;
-  background-color: #000;
-  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  font-family: "Montserrat", sans-serif;
   width: 100%;
   text-align: center;
-  color: #fff
 }
 header {
-  background-color: #000;
+  background-color: #4D7DB5;
   text-align: center;
 }
 header h1,
@@ -49,16 +48,16 @@ header a {
   padding-right: 20px; */
   text-decoration: none;
   float: right;
-  background-color: #681f79;
+  background-color: #4D7DB5;
   text-align: center;
 }
 header a:hover {
-  background-color: #681f79;
+  background-color: #4D7DB5;
   text-align: center;
 }
 .demo-content {
   max-width: 80%;
-  margin-top: 0px;
+  margin-top: 90px;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 90px;
@@ -87,13 +86,13 @@ ul#adventDoors {
   border: 4px #fff solid;
 }
 #adventDoors li a:not(.disabled):hover {
-	color: #818181;
+	color: #fff;
 	background-color: transparent;
 	background-color: rgba(255,255,255,0.15);
 }
 #adventDoors li a.disabled {
-	border-color: #818181;
-	background-color:#818181;
-	color: #fff;
+	border-color: #4D7DB5;
+	background-color: rgba(196,254,171,0.15);
+	color: #4D7DB5;
 	cursor: default;
 }
