@@ -21,18 +21,32 @@ function Door(calendar, day) {
 		innerNode.innerHTML = day;
 		innerNode.href = "#";
 
-		if ((currentDate.getMonth() + 1) < 12 || currentDate.getDate() < day) {
-			innerNode.className = "disabled";
-			innerNode.onclick = function () {
-				return false;
-			}
-		} else {
-			var adventMessage = this.adventMessage;
-			innerNode.onclick = function () {
-				alert(adventMessage);
-				return false;
-			}
+		// if ((currentDate.getMonth() + 1) < 12 || currentDate.getDate() < day) {
+		// 	innerNode.className = "disabled";
+		// 	innerNode.onclick = function () {
+		// 		return false;
+		// 	}
+		// } else {
+		// 	var adventMessage = this.adventMessage;
+		// 	innerNode.onclick = function () {
+		// 		alert(adventMessage);
+		// 		return false;
+		// 	}
+		// }
+
+
+		// if ((currentDate.getMonth() + 1) < 12 || currentDate.getDate() < day) {
+		// 	innerNode.className = "disabled";
+		// 	innerNode.onclick = function () {
+		// 		return false;
+		// 	}
+		// } else {
+		var adventMessage = this.adventMessage;
+		innerNode.onclick = function () {
+			alert(adventMessage);
+			return false;
 		}
+
 	};
 
 }
