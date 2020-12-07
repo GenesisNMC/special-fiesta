@@ -16,11 +16,11 @@ var messages = [
 	["It was often in small moments that significant things were revealed.", "Andrei Cepoi, Country Coordinator - Romania"],
 	["I wish we could put up some of the Christmas spirit in jars and open a jar of it every month.", "Vittorio Mascellani, Country Coordinator - Italy"],
 	["Christmas is not an external event at all, but a piece of one's home that one carries in one's heart.", "Juergen Henrich, Country Coordinator - UK"],
+	["All I want for Christmas is SAP_ALL", "Tracy Fagbemi, Enterprise Architect"]
 	["Christmas is the keeping-place for memories of our innocence.", "Sumeet Jaiswal, BASIS Consultant"],
 	["One can never receive enough love, nor, can they give enough. Love is the one thing we can never have enough of, nor, give too much.", "Ed Johns, CIO"],
 	["Do give books for Christmas. They're never fattening, seldom sinful, and permanently personal.", "Wendy Clokie, IBM Programme Manager"],
 	["Christmas works like glue, it keeps us all sticking together.", "Sanjeev Bareja, IBM Delivery Lead"],
 	["Christmas works like glue, it keeps us all sticking together.", "Florian Boersting, SNP Project Manager"],
-	["Christmas is a bridge. We need bridges as the river of time flows past. Today's Christmas should mean creating happy hours for tomorrow and reliving those of yesterday.", "Hayden Bamber, IBM Programme Director"],
-	["The real Santa Claus is at the mall.", "Mark Baker"],
+	["Never worry about the size of your Christmas tree. In the eyes of children, they are all thirty feet tall.", "Thomas Leuschner, Programme Director"],
 ];
