@@ -13,7 +13,7 @@ var messages = [
 	["I’ll tell you a coronavirus joke now, but you’ll have to wait two weeks to see if you got it.", ""],
 	["Have you heard of that new band \"1023 Megabytes\"?", "They're pretty good, but they don't have a gig just yet"],
 	["Autocorrect can go straight to he’ll", ""],
-	["What should you do if you don\’t understand a coronavirus joke? Be patient", ""],
+	["What should you do if you don\’t understand a coronavirus joke?", "Be patient"],
 	["Frohe Festtage!", "Germany"],
 	["Craciun Fericit!", "Romania"],
 	["Buon Natale!", "Italy"],
