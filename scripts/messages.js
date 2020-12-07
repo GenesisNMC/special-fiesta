@@ -22,5 +22,5 @@ var messages = [
 	["Christmas works like glue, it keeps us all sticking together.", "Sanjeev Bareja, IBM Delivery Lead"],
 	["Christmas works like glue, it keeps us all sticking together.", "Florian Boersting, SNP Project Manager"],
 	["Christmas is a bridge. We need bridges as the river of time flows past. Today's Christmas should mean creating happy hours for tomorrow and reliving those of yesterday.", "Hayden Bamber, IBM Programme Director"],
-	["The real Santa Claus is at the mall.", "Lemony Snicket"],
+	["The real Santa Claus is at the mall.", "Mark Baker"],
 ];
