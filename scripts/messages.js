@@ -22,6 +22,5 @@ var messages = [
 	["All I want for Christmas is SAP_ALL", "Enterprise Architecture"],
 	["Why was the cell phone wearing glasses?", "It lost its contacts"],
 	["Why did the PowerPoint Presentation cross the road?", "To get to the other slide"],
-	["Thank you all for your hard work this year! Together we will make S/4EMEA a great success!", "Thomas Leuschner, Programme Director"],
-	["Merry Christmas!", "UK"],
+	["Eminem walks into a bar, asks for two tequilas. The barman says...", "You only get one shot"],
 ];
