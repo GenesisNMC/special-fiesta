@@ -7,7 +7,7 @@ var messages = [
 	["Did you hear about the monkeys who shared an Amazon account?", "They were Prime mates."],
 	["Wishing you an Excellent Holidays, from the Centre of our hearts", "Process Centre of Excellence"],
 	["Keep your BASIS on the ground and your dreams in the Cloud", "Technology Workstream"],
-	["Enjoy your Admin Access to a wonderful Holiday Season", "Security Workstream"],
+	["Enjoy your Admin Rights to a wonderful Holiday Season", "Security Workstream"],
 	["Have a great Time but control your Expenses", "CATS Workstream"],
 	["Wishing you successful Delivery of Project Holidays", "CPM Workstream"],
 	["I’ll tell you a coronavirus joke now, but you’ll have to wait two weeks to see if you got it.", ""],
