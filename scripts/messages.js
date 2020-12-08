@@ -16,11 +16,12 @@ var messages = [
 	["What should you do if you don\’t understand a coronavirus joke?", "Be patient"],
 	["Frohe Festtage!", "Germany"],
 	["Craciun Fericit!", "Romania"],
+	["Thank you all for your hard work this year! Together we will make S/4EMEA a great success!", "Thomas Leuschner, Programme Director"],
 	["Buon Natale!", "Italy"],
-	["Merry Christmas!", "UK"],
 	["What part of the keyboard do astronauts like best?", "The spacebar"],
 	["All I want for Christmas is SAP_ALL", "Enterprise Architecture"],
 	["Why was the cell phone wearing glasses?", "It lost its contacts"],
 	["Why did the PowerPoint Presentation cross the road?", "To get to the other slide"],
 	["Thank you all for your hard work this year! Together we will make S/4EMEA a great success!", "Thomas Leuschner, Programme Director"],
+	["Merry Christmas!", "UK"],
 ];
