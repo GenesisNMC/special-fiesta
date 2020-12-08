@@ -16,7 +16,7 @@ var messages = [
 	["What should you do if you don\’t understand a coronavirus joke?", "Be patient"],
 	["Frohe Festtage!", "Germany"],
 	["Craciun Fericit!", "Romania"],
-	["The S4 EMEA journey in 2020 has been a rough ride for everyone involved. I like to take the opportunity to thank all of you personally for all the hours and hard work that you have put into it this year! As stated half a year ago, we can only deliver this together and I am looking forward to a successful delivery together with all of you in 2021! Now I wish all of you a very merry Christmas with your families, some relaxation and a fantastic start into a hopefully more normal becoming year 2021!", "Thomas Leuschner, Programme Director"],
+	["The S/4EMEA journey in 2020 has been a rough ride for everyone involved. I like to take the opportunity to thank all of you personally for all the hours and hard work that you have put into it this year! As stated half a year ago, we can only deliver this together and I am looking forward to a successful delivery together with all of you in 2021! Now I wish all of you a very merry Christmas with your families, some relaxation and a fantastic start into a hopefully more normal becoming year 2021!", "Thomas Leuschner, Programme Director"],
 	["Buon Natale!", "Italy"],
 	["What part of the keyboard do astronauts like best?", "The spacebar"],
 	["All I want for Christmas is SAP_ALL", "Enterprise Architecture"],
